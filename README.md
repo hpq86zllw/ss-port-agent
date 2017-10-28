@@ -6,6 +6,10 @@
 ## 功能  
 1. 向ss发送由服务端传递过来的命令，如添加端口和删除端口等  
 2. 向服务端发送由ss传递过来的端口流量数据  
+## 使用技术  
+框架 Spring Boot  
+缓存 Ehcache  
+通信 Netty和RESTful API  
 ## 运行要求  
 只支持python版的ss  
 ## 构建  
