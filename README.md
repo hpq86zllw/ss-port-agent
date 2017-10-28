@@ -29,3 +29,4 @@ agent.max-flow-bytes=代理端每个端口的最大流量值
 server.base-url=服务端地址  
 ## 运行方法（需要服务端先启动）  
 nohup java -jar ss-port-agent-0.0.1.jar &> logs/nohup.out &  
+PS：启动ss时需要添加--manager-address=127.0.0.1:PORT参数，其中PORT为上面配置中的ss.manager.port  
