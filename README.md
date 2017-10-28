@@ -16,6 +16,7 @@ SS_HOST ss展示给用户的服务器地址
 AGENT_BASE_URL 代理端地址  
 AGENT_MAX_FLOW_BYTES 代理端每个端口的最大流量值  
 SERVER_BASE_URL 服务端地址  
+需要与ss放在同一服务器  
 ## 运行方法  
 cp target/ss-port-agent-0.0.1.jar HOME  
 cd HOME  
