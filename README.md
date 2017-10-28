@@ -3,6 +3,9 @@
 [服务端](https://github.com/hpq86zllw/ss-port-server)  
 [代理端](https://github.com/hpq86zllw/ss-port-agent)  
 [客户端](https://github.com/hpq86zllw/ss-port-client)  
+
+关系图  
+![](https://raw.githubusercontent.com/hpq86zllw/asset-repository/master/img/relation.jpg)  
 ## 功能  
 向ss发送由服务端传递过来的命令，如添加端口和删除端口等  
 向服务端发送由ss传递过来的端口流量数据  
