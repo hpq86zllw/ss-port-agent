@@ -20,8 +20,8 @@ logs，run，tomcat和config
 3. 在config文件夹中创建application.properties，在里面配置如下参数  
 port=启动端口  
 ss.manager.port=ss manager端口  
-ss.min-port=ss最小使用端口  
-ss.max-port=ss最大使用端口  
+ss.min-port=ss可用端口的最小使用端口  
+ss.max-port=ss可用端口的最大使用端口  
 ss.encrypt-method=ss加密方法  
 ss.host=展示给用户的ss服务器地址  
 agent.base-url=代理端地址  
